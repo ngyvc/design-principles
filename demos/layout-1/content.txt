@@ -1,0 +1,85 @@
+About
+Examples
+Contribute
+
+Design Principles
+An open source collection of Design Principles and methods.
+
+The collection contains:
+
+195
+Examples
+
+1448
+Design Principles
+
+167
+Creators
+
+What are Design Principles?
+Design Principles are a set of considerations that form the basis of any good product.
+
+Why use them?
+Design Principles help teams with decision making. A few simple principles or constructive questions will guide your team towards making appropriate decisions.
+
+Who uses them?
+Organisations, individuals and product teams have benefited from writing and following their principles.
+
+Here are a few examples:
+
+10 Principles of Good Road Design
+Highways England Strategic Design Panel
+
+Airbnb's Design Principles
+Airbnb
+
+Principles
+Co-op
+
+Design in the Era of the Algorithm
+Josh Clark
+
+NHS Design Principles
+NHS
+
+Principles of Calm Technology
+Amber Case
+
+Principles of Design
+Tim Berners Lee
+
+The Ten Principles of Inclusive Web Design
+Sandi Wassmer
+
+Got something
+to add?
+Submit an example
+
+See all 195 examples
+
+https://principles.design/examples/10-principles-of-good-road-design
+https://principles.design/examples/airbnb-design-principles
+https://principles.design/examples/co-op-design-principles
+https://principles.design/examples/design-in-the-era-of-the-algorithm
+https://principles.design/examples/nhs-design-principles
+https://principles.design/examples/principles-of-calm-technology
+https://principles.design/examples/principles-of-design
+https://principles.design/examples/the-ten-principles-of-inclusive-design
+https://github.com/benbrignell/principles.design#contributing
+https://principles.design/examples/
+
+Ben Brignell maintains principles.design as an open source resource.
+
+Ethical Analytics
+
+Get a $10 credit for Fathom Analytics.
+Fast, simple and privacy-focused website analytics.
+
+Find out more
+
+Community
+
+Talk on Gitter, Twitter, Mastodon & contribute on Github.
+
+Thanks to the contributors to this project.
+
