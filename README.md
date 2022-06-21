@@ -11,4 +11,4 @@ mobile first & responsive
 responsive images
 CSS (avoid inline)
 CSS Grid
-CDD Animations
+CSS Animations
